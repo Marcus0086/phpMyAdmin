@@ -20,3 +20,4 @@ $ cp -f httpd.conf $PREFIX/etc/apache2
  $ pkill mysql
  $ apachectl stop
 
+# Server will be on 0.0.0.0:8080 interface
