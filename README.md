@@ -1,5 +1,7 @@
 # phpMyAdmin
 # In order to install use following steps:
+$ pkg up
+$ apt install mariadb php php-apache apache2
 $ unzip phpMyAdmin.zip
 $ cp -f mysl $PREFIX/bin
 $ chmod +x $PREFIX/bin/mysl
