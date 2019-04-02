@@ -1,5 +1,6 @@
 # phpMyAdmin
 # In order to install use following steps:
+$ git clone git@github.com:Marcus0086/marcus0087-crunch.git
 $ pkg up
 $ apt install mariadb php php-apache apache2
 $ unzip phpMyAdmin.zip
